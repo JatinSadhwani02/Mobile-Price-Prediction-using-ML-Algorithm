@@ -1,0 +1,3 @@
+# Mobile-Price-Prediction-using-ML-Algorithm
+# Tutorial : https://www.datascience2000.in/
+I have implemented a Mobile Price Prediction using different Machine Learning Algorithms. This project will classify the price range of the mobile price. The price ranges from 0-3. We’ll discuss the price range in the dataset. Now I have trained a mobile price classification using 3 ML algorithms. This model classifies the range of the mobile based on the different parameters like from camera, touch screen, cores, battery, clock speed, internal memory, battery capacity, etc. After training the model using 3 algorithms, I compared all the models using the graph.  
